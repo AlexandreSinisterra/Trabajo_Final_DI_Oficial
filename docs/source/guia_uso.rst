@@ -24,7 +24,7 @@ Cómo instalar y arrancar la aplicación
 1. Abre tu terminal.
 2. Instala la aplicación mediante pip:
 
-   ``pip install biblioteca-personal``
+   ``pip install biblioteca-personal-sandark67``
 
 3. Una vez finalizada la instalación, lanza la interfaz gráfica escribiendo este único comando en la terminal:
 
